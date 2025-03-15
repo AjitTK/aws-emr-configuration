@@ -1,0 +1,267 @@
+Instance-Type , Memory , CPUs , Physical Processor , Network Performance , Linux On Demand cost , Linux Reserved cost
+a1.2xlarge , 16.0 GiB , 8 vCPUs , AWS Graviton Processor , Up to 10 Gigabit , $148.92 monthly , $93.80 monthly
+a1.4xlarge , 32.0 GiB , 16 vCPUs , AWS Graviton Processor , Up to 10 Gigabit , $297.84 monthly , $187.61 monthly
+a1.large , 4.0 GiB , 2 vCPUs , AWS Graviton Processor , Up to 10 Gigabit , $37.23 monthly , $23.43 monthly
+a1.medium , 2.0 GiB , 1 vCPUs , AWS Graviton Processor , Up to 10 Gigabit , $18.61 monthly , $11.75 monthly
+a1.metal , 32.0 GiB , 16 vCPUs , AWS Graviton Processor , Up to 10 Gigabit , $297.84 monthly , $187.61 monthly
+a1.xlarge , 8.0 GiB , 4 vCPUs , AWS Graviton Processor , Up to 10 Gigabit , $74.46 monthly , $46.93 monthly
+c1.medium , 1.7 GiB , 2 vCPUs , Intel Xeon Family , Moderate , $94.90 monthly , $66.43 monthly
+c1.xlarge , 7.0 GiB , 8 vCPUs , Intel Xeon Family , High , $379.60 monthly , $265.72 monthly
+c3.2xlarge , 15.0 GiB , 8 vCPUs , Intel Xeon E5-2680 v2 (Ivy Bridge) , High , $306.60 monthly , $213.16 monthly
+c3.4xlarge , 30.0 GiB , 16 vCPUs , Intel Xeon E5-2680 v2 (Ivy Bridge) , High , $613.20 monthly , $426.32 monthly
+c3.8xlarge , 60.0 GiB , 32 vCPUs , Intel Xeon E5-2680 v2 (Ivy Bridge) , 10 Gigabit , $1226.40 monthly , $852.64 monthly
+c3.large , 3.75 GiB , 2 vCPUs , Intel Xeon E5-2680 v2 (Ivy Bridge) , Moderate , $76.65 monthly , $53.29 monthly
+c3.xlarge , 7.5 GiB , 4 vCPUs , Intel Xeon E5-2680 v2 (Ivy Bridge) , Moderate , $153.30 monthly , $106.58 monthly
+c4.2xlarge , 15.0 GiB , 8 vCPUs , Intel Xeon E5-2666 v3 (Haswell) , High , $290.54 monthly , $183.96 monthly
+c4.4xlarge , 30.0 GiB , 16 vCPUs , Intel Xeon E5-2666 v3 (Haswell) , High , $581.08 monthly , $367.92 monthly
+c4.8xlarge , 60.0 GiB , 36 vCPUs , Intel Xeon E5-2666 v3 (Haswell) , 10 Gigabit , $1161.43 monthly , $735.84 monthly
+c4.large , 3.75 GiB , 2 vCPUs , Intel Xeon E5-2666 v3 (Haswell) , Moderate , $73.00 monthly , $45.99 monthly
+c4.xlarge , 7.5 GiB , 4 vCPUs , Intel Xeon E5-2666 v3 (Haswell) , High , $145.27 monthly , $91.98 monthly
+c5.12xlarge , 96.0 GiB , 48 vCPUs , Intel Xeon Platinum 8275L , 12 Gigabit , $1489.20 monthly , $938.05 monthly
+c5.18xlarge , 144.0 GiB , 72 vCPUs , Intel Xeon Platinum 8124M , 25 Gigabit , $2233.80 monthly , $1407.44 monthly
+c5.24xlarge , 192.0 GiB , 96 vCPUs , Intel Xeon Platinum 8275L , 25 Gigabit , $2978.40 monthly , $1876.10 monthly
+c5.2xlarge , 16.0 GiB , 8 vCPUs , Intel Xeon Platinum 8124M , Up to 10 Gigabit , $248.20 monthly , $156.22 monthly
+c5.4xlarge , 32.0 GiB , 16 vCPUs , Intel Xeon Platinum 8124M , Up to 10 Gigabit , $496.40 monthly , $312.44 monthly
+c5.9xlarge , 72.0 GiB , 36 vCPUs , Intel Xeon Platinum 8124M , 10 Gigabit , $1116.90 monthly , $703.72 monthly
+c5.large , 4.0 GiB , 2 vCPUs , Intel Xeon Platinum 8124M , Up to 10 Gigabit , $62.05 monthly , $39.42 monthly
+c5.metal , 192.0 GiB , 96 vCPUs , Intel Xeon Platinum 8275L , 25 Gigabit , $2978.40 monthly , $1876.10 monthly
+c5.xlarge , 8.0 GiB , 4 vCPUs , Intel Xeon Platinum 8124M , Up to 10 Gigabit , $124.10 monthly , $78.11 monthly
+c5d.12xlarge , 96.0 GiB , 48 vCPUs , Intel Xeon Platinum 8275L , 12 Gigabit , $1681.92 monthly , $1060.69 monthly
+c5d.18xlarge , 144.0 GiB , 72 vCPUs , Intel Xeon Platinum 8124M , 25 Gigabit , $2522.88 monthly , $1591.40 monthly
+c5d.24xlarge , 192.0 GiB , 96 vCPUs , Intel Xeon Platinum 8275L , 25 Gigabit , $3363.84 monthly , $2121.38 monthly
+c5d.2xlarge , 16.0 GiB , 8 vCPUs , Intel Xeon Platinum 8124M , Up to 10 Gigabit , $280.32 monthly , $176.66 monthly
+c5d.4xlarge , 32.0 GiB , 16 vCPUs , Intel Xeon Platinum 8124M , Up to 10 Gigabit , $560.64 monthly , $353.32 monthly
+c5d.9xlarge , 72.0 GiB , 36 vCPUs , Intel Xeon Platinum 8124M , 10 Gigabit , $1261.44 monthly , $795.70 monthly
+c5d.large , 4.0 GiB , 2 vCPUs , Intel Xeon Platinum 8124M , Up to 10 Gigabit , $70.08 monthly , $44.53 monthly
+c5d.metal , 192.0 GiB , 96 vCPUs , Intel Xeon Platinum 8275L , 25 Gigabit , $3363.84 monthly , $2121.38 monthly
+c5d.xlarge , 8.0 GiB , 4 vCPUs , Intel Xeon Platinum 8124M , Up to 10 Gigabit , $140.16 monthly , $88.33 monthly
+c5n.18xlarge , 192.0 GiB , 72 vCPUs , Intel Xeon Platinum 8124M , 100 Gigabit , $2838.24 monthly , $1787.77 monthly
+c5n.2xlarge , 21.0 GiB , 8 vCPUs , Intel Xeon Platinum 8124M , Up to 25 Gigabit , $315.36 monthly , $198.56 monthly
+c5n.4xlarge , 42.0 GiB , 16 vCPUs , Intel Xeon Platinum 8124M , Up to 25 Gigabit , $630.72 monthly , $397.12 monthly
+c5n.9xlarge , 96.0 GiB , 36 vCPUs , Intel Xeon Platinum 8124M , 50 Gigabit , $1419.12 monthly , $894.25 monthly
+c5n.large , 5.25 GiB , 2 vCPUs , Intel Xeon Platinum 8124M , Up to 25 Gigabit , $78.84 monthly , $49.64 monthly
+c5n.metal , 192.0 GiB , 72 vCPUs , Intel Xeon Platinum 8124M , 100 Gigabit , $2838.24 monthly , $1787.77 monthly
+c5n.xlarge , 10.5 GiB , 4 vCPUs , Intel Xeon Platinum 8124M , Up to 25 Gigabit , $157.68 monthly , $99.28 monthly
+cc2.8xlarge , 60.5 GiB , 32 vCPUs , Intel Xeon E5-2670 , 10 Gigabit , $1460.00 monthly , unavailable
+cr1.8xlarge , 244.0 GiB , 32 vCPUs , Intel Xeon E5-2670 , 10 Gigabit , $2555.00 monthly , unavailable
+d2.2xlarge , 61.0 GiB , 8 vCPUs , Intel Xeon E5-2676v3 (Haswell) , High , $1007.40 monthly , $586.92 monthly
+d2.4xlarge , 122.0 GiB , 16 vCPUs , Intel Xeon E5-2676v3 (Haswell) , High , $2014.80 monthly , $1173.84 monthly
+d2.8xlarge , 244.0 GiB , 36 vCPUs , Intel Xeon E5-2676v3 (Haswell) , 10 Gigabit , $4029.60 monthly , $2347.68 monthly
+d2.xlarge , 30.5 GiB , 4 vCPUs , Intel Xeon E5-2676v3 (Haswell) , Moderate , $503.70 monthly , $293.46 monthly
+f1.16xlarge , 976.0 GiB , 64 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , 20 Gigabit , $9636.00 monthly , $6515.25 monthly
+f1.2xlarge , 122.0 GiB , 8 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , Up to 10 Gigabit , $1204.50 monthly , $814.68 monthly
+f1.4xlarge , 244.0 GiB , 16 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , 10 Gigabit , $2409.00 monthly , $1628.63 monthly
+g2.2xlarge , 15.0 GiB , 8 vCPUs , Intel Xeon E5-2670 (Sandy Bridge) , High , $474.50 monthly , $346.02 monthly
+g2.8xlarge , 60.0 GiB , 32 vCPUs , Intel Xeon E5-2670 (Sandy Bridge) , 10 Gigabit , $1898.00 monthly , $1384.08 monthly
+g3.16xlarge , 488.0 GiB , 64 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , 20 Gigabit , $3328.80 monthly , $2271.906000 monthly
+g3.4xlarge , 122.0 GiB , 16 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , Up to 10 Gigabit , $832.20 monthly , $568.01 monthly
+g3.8xlarge , 244.0 GiB , 32 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , 10 Gigabit , $1664.40 monthly , $1135.95 monthly
+g3s.xlarge , 30.5 GiB , 4 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , 10 Gigabit , $547.50 monthly , $402.23 monthly
+g4dn.12xlarge , 192.0 GiB , 48 vCPUs , Intel Xeon Family , 50 Gigabit , $2855.76 monthly , $1799.45 monthly
+g4dn.16xlarge , 256.0 GiB , 64 vCPUs , Intel Xeon Family , 50 Gigabit , $3176.96 monthly , $2001.66 monthly
+g4dn.2xlarge , 32.0 GiB , 8 vCPUs , Intel Xeon Family , Up to 25 Gigabit , $548.96 monthly , $346.02 monthly
+g4dn.4xlarge , 64.0 GiB , 16 vCPUs , Intel Xeon Family , Up to 25 Gigabit , $878.92 monthly , $554.07 monthly
+g4dn.8xlarge , 128.0 GiB , 32 vCPUs , Intel Xeon Family , 50 Gigabit , $1588.48 monthly , $1000.83 monthly
+g4dn.metal , 384.0 GiB , 96 vCPUs , Intel Xeon Family , 100 Gigabit , unavailable , unavailable
+g4dn.xlarge , 16.0 GiB , 4 vCPUs , Intel Xeon Family , Up to 25 Gigabit , $383.98 monthly , $241.63 monthly
+h1.16xlarge , 256.0 GiB , 64 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , 25 Gigabit , $2733.12 monthly , $1857.85 monthly
+h1.2xlarge , 32.0 GiB , 8 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , Up to 10 Gigabit , $341.64 monthly , $232.14 monthly
+h1.4xlarge , 64.0 GiB , 16 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , Up to 10 Gigabit , $683.28 monthly , $464.28 monthly
+h1.8xlarge , 128.0 GiB , 32 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , 10 Gigabit , $1366.56 monthly , $928.56 monthly
+hs1.8xlarge , 117.0 GiB , 17 vCPUs , Intel Xeon E5-2650 , 10 Gigabit , $3358.00 monthly , unavailable
+i2.2xlarge , 61.0 GiB , 8 vCPUs , Intel Xeon E5-2670 v2 (Ivy Bridge) , High , $1244.65 monthly , $619.04 monthly
+i2.4xlarge , 122.0 GiB , 16 vCPUs , Intel Xeon E5-2670 v2 (Ivy Bridge) , High , $2489.30 monthly , $1238.08 monthly
+i2.8xlarge , 244.0 GiB , 32 vCPUs , Intel Xeon E5-2670 v2 (Ivy Bridge) , 10 Gigabit , $4978.60 monthly , $2476.16 monthly
+i2.xlarge , 30.5 GiB , 4 vCPUs , Intel Xeon E5-2670 v2 (Ivy Bridge) , Moderate , $622.69 monthly , $309.52 monthly
+i3.16xlarge , 488.0 GiB , 64 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , 20 Gigabit , $3644.16 monthly , $2501.71 monthly
+i3.2xlarge , 61.0 GiB , 8 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , Up to 10 Gigabit , $455.52 monthly , $312.44 monthly
+i3.4xlarge , 122.0 GiB , 16 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , Up to 10 Gigabit , $911.04 monthly , $625.61 monthly
+i3.8xlarge , 244.0 GiB , 32 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , 10 Gigabit , $1822.08 monthly , $1251.22 monthly
+i3.large , 15.25 GiB , 2 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , Up to 10 Gigabit , $113.88 monthly , $78.11 monthly
+i3.metal , 512.0 GiB , 72 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , 25 Gigabit , $3644.16 monthly , $2501.71 monthly
+i3.xlarge , 30.5 GiB , 4 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , Up to 10 Gigabit , $227.76 monthly , $156.22 monthly
+i3en.12xlarge , 384.0 GiB , 48 vCPUs , Intel Xeon Platinum 8175 , 50 Gigabit , $3959.52 monthly , $2696.62 monthly
+i3en.24xlarge , 768.0 GiB , 96 vCPUs , Intel Xeon Platinum 8175 , 100 Gigabit , $7919.04 monthly , $5393.24 monthly
+i3en.2xlarge , 64.0 GiB , 8 vCPUs , Intel Xeon Platinum 8175 , Up to 25 Gigabit , $659.92 monthly , $449.68 monthly
+i3en.3xlarge , 96.0 GiB , 12 vCPUs , Intel Xeon Platinum 8175 , Up to 25 Gigabit , $989.88 monthly , $674.52 monthly
+i3en.6xlarge , 192.0 GiB , 24 vCPUs , Intel Xeon Platinum 8175 , 25 Gigabit , $1979.76 monthly , $1348.31 monthly
+i3en.large , 16.0 GiB , 2 vCPUs , Intel Xeon Platinum 8175 , Up to 25 Gigabit , $164.98 monthly , $112.42 monthly
+i3en.metal , 768.0 GiB , 96 vCPUs , Intel Xeon Platinum 8175 , 100 Gigabit , $7919.04 monthly , $5393.24 monthly
+i3en.xlarge , 32.0 GiB , 4 vCPUs , Intel Xeon Platinum 8175 , Up to 25 Gigabit , $329.96 monthly , $224.84 monthly
+m1.large , 7.5 GiB , 2 vCPUs , Intel Xeon Family , Moderate , $127.75 monthly , $81.76 monthly
+m1.medium , 3.75 GiB , 1 vCPUs , Intel Xeon Family , Moderate , $63.51 monthly , $40.88 monthly
+m1.small , 1.7 GiB , 1 vCPUs , Intel Xeon Family , Low , $32.12 monthly , $20.44 monthly
+m1.xlarge , 15.0 GiB , 4 vCPUs , Intel Xeon Family , High , $255.50 monthly , $163.52 monthly
+m2.2xlarge , 34.2 GiB , 4 vCPUs , Intel Xeon Family , Moderate , $357.70 monthly , $162.06 monthly
+m2.4xlarge , 68.4 GiB , 8 vCPUs , Intel Xeon Family , High , $715.40 monthly , $324.12 monthly
+m2.xlarge , 17.1 GiB , 2 vCPUs , Intel Xeon Family , Moderate , $178.85 monthly , $81.03 monthly
+m3.2xlarge , 30.0 GiB , 8 vCPUs , Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge) , High , $388.36 monthly , $277.40 monthly
+m3.large , 7.5 GiB , 2 vCPUs , Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge) , Moderate , $97.09 monthly , $69.35 monthly
+m3.medium , 3.75 GiB , 1 vCPUs , Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge) , Moderate , $48.91 monthly , $35.04 monthly
+m3.xlarge , 15.0 GiB , 4 vCPUs , Intel Xeon E5-2670 v2 (Ivy Bridge/Sandy Bridge) , High , $194.18 monthly , $138.70 monthly
+m4.10xlarge , 160.0 GiB , 40 vCPUs , Intel Xeon E5-2676 v3 (Haswell) , 10 Gigabit , $1460.00 monthly , $904.47 monthly
+m4.16xlarge , 256.0 GiB , 64 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , 20 Gigabit , $2336.00 monthly , $1447.15 monthly
+m4.2xlarge , 32.0 GiB , 8 vCPUs , Intel Xeon E5-2676 v3 (Haswell) , High , $292.00 monthly , $180.894000 monthly
+m4.4xlarge , 64.0 GiB , 16 vCPUs , Intel Xeon E5-2676 v3 (Haswell) , High , $584.00 monthly , $361.788000 monthly
+m4.large , 8.0 GiB , 2 vCPUs , Intel Xeon E5-2676 v3 (Haswell) , Moderate , $73.00 monthly , $45.26 monthly
+m4.xlarge , 16.0 GiB , 4 vCPUs , Intel Xeon E5-2676 v3 (Haswell) , High , $146.00 monthly , $90.447000 monthly
+m5.12xlarge , 192.0 GiB , 48 vCPUs , Intel Xeon Platinum 8175 , 10 Gigabit , $1681.92 monthly , $1074.56 monthly
+m5.16xlarge , 256.0 GiB , 64 vCPUs , Intel Xeon Platinum 8175 , 20 Gigabit , $2242.56 monthly , $1432.99 monthly
+m5.24xlarge , 384.0 GiB , 96 vCPUs , Intel Xeon Platinum 8175 , 25 Gigabit , $3363.84 monthly , $2149.12 monthly
+m5.2xlarge , 32.0 GiB , 8 vCPUs , Intel Xeon Platinum 8175 , Up to 10 Gigabit , $280.32 monthly , $178.85 monthly
+m5.4xlarge , 64.0 GiB , 16 vCPUs , Intel Xeon Platinum 8175 , Up to 10 Gigabit , $560.64 monthly , $358.43 monthly
+m5.8xlarge , 128.0 GiB , 32 vCPUs , Intel Xeon Platinum 8175 , 10 Gigabit , $1121.28 monthly , $716.13 monthly
+m5.large , 8.0 GiB , 2 vCPUs , Intel Xeon Platinum 8175 , Up to 10 Gigabit , $70.08 monthly , $44.53 monthly
+m5.metal , 384.0 GiB , 96 vCPUs , Intel Xeon Platinum 8175 , 25 Gigabit , $3363.84 monthly , $2149.12 monthly
+m5.xlarge , 16.0 GiB , 4 vCPUs , Intel Xeon Platinum 8175 , Up to 10 Gigabit , $140.16 monthly , $89.79 monthly
+m5a.12xlarge , 192.0 GiB , 48 vCPUs , AMD EPYC 7571 , 10 Gigabit , $1506.72 monthly , $958.49 monthly
+m5a.16xlarge , 256.0 GiB , 64 vCPUs , AMD EPYC 7571 , 12 Gigabit , $2008.96 monthly , $1278.23 monthly
+m5a.24xlarge , 384.0 GiB , 96 vCPUs , AMD EPYC 7571 , 20 Gigabit , $3013.44 monthly , $1917.71 monthly
+m5a.2xlarge , 32.0 GiB , 8 vCPUs , AMD EPYC 7571 , Up to 10 Gigabit , $251.12 monthly , $159.87 monthly
+m5a.4xlarge , 64.0 GiB , 16 vCPUs , AMD EPYC 7571 , Up to 10 Gigabit , $502.24 monthly , $319.74 monthly
+m5a.8xlarge , 128.0 GiB , 32 vCPUs , AMD EPYC 7571 , Up to 10 Gigabit , $1004.48 monthly , $639.48 monthly
+m5a.large , 8.0 GiB , 2 vCPUs , AMD EPYC 7571 , Up to 10 Gigabit , $62.78 monthly , $40.15 monthly
+m5a.xlarge , 16.0 GiB , 4 vCPUs , AMD EPYC 7571 , Up to 10 Gigabit , $125.56 monthly , $79.57 monthly
+m5ad.12xlarge , 192.0 GiB , 48 vCPUs , AMD EPYC 7571 , 10 Gigabit , $1804.56 monthly , $1154.13 monthly
+m5ad.24xlarge , 384.0 GiB , 96 vCPUs , AMD EPYC 7571 , 20 Gigabit , $3609.12 monthly , $2307.53 monthly
+m5ad.2xlarge , 32.0 GiB , 8 vCPUs , AMD EPYC 7571 , Up to 10 Gigabit , $300.76 monthly , $191.99 monthly
+m5ad.4xlarge , 64.0 GiB , 16 vCPUs , AMD EPYC 7571 , Up to 10 Gigabit , $601.52 monthly , $384.71 monthly
+m5ad.large , 8.0 GiB , 2 vCPUs , AMD EPYC 7571 , Up to 10 Gigabit , $75.19 monthly , $48.18 monthly
+m5ad.xlarge , 16.0 GiB , 4 vCPUs , AMD EPYC 7571 , Up to 10 Gigabit , $150.38 monthly , $96.36 monthly
+m5d.12xlarge , 192.0 GiB , 48 vCPUs , Intel Xeon Platinum 8175 , 10 Gigabit , $1979.76 monthly , $1260.71 monthly
+m5d.16xlarge , 256.0 GiB , 64 vCPUs , Intel Xeon Platinum 8175 , 20 Gigabit , $2639.68 monthly , $1680.46 monthly
+m5d.24xlarge , 384.0 GiB , 96 vCPUs , Intel Xeon Platinum 8175 , 25 Gigabit , $3959.52 monthly , $2521.42 monthly
+m5d.2xlarge , 32.0 GiB , 8 vCPUs , Intel Xeon Platinum 8175 , Up to 10 Gigabit , $329.96 monthly , $210.24 monthly
+m5d.4xlarge , 64.0 GiB , 16 vCPUs , Intel Xeon Platinum 8175 , Up to 10 Gigabit , $659.92 monthly , $420.48 monthly
+m5d.8xlarge , 128.0 GiB , 32 vCPUs , Intel Xeon Platinum 8175 , 10 Gigabit , $1319.84 monthly , $840.23 monthly
+m5d.large , 8.0 GiB , 2 vCPUs , Intel Xeon Platinum 8175 , Up to 10 Gigabit , $82.49 monthly , $52.56 monthly
+m5d.metal , 384.0 GiB , 96 vCPUs , Intel Xeon Platinum 8175 , 25 Gigabit , $3959.52 monthly , $2521.42 monthly
+m5d.xlarge , 16.0 GiB , 4 vCPUs , Intel Xeon Platinum 8175 , Up to 10 Gigabit , $164.98 monthly , $105.12 monthly
+m5dn.12xlarge , 192.0 GiB , 48 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 50 Gigabit , $2382.72 monthly , $1516.21 monthly
+m5dn.16xlarge , 256.0 GiB , 64 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 75 Gigabit , $3176.96 monthly , $2021.37 monthly
+m5dn.24xlarge , 384.0 GiB , 96 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 100 Gigabit , $4765.44 monthly , $3032.42 monthly
+m5dn.2xlarge , 32.0 GiB , 8 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , Up to 25 Gigabit , $397.12 monthly , $252.58 monthly
+m5dn.4xlarge , 64.0 GiB , 16 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , Up to 25 Gigabit , $794.24 monthly , $505.16 monthly
+m5dn.8xlarge , 128.0 GiB , 32 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 25 Gigabit , $1588.48 monthly , $1011.05 monthly
+m5dn.large , 8.0 GiB , 2 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , Up to 25 Gigabit , $99.28 monthly , $63.51 monthly
+m5dn.metal , 384.0 GiB , 96 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 100 Gigabit , unavailable , unavailable
+m5dn.xlarge , 16.0 GiB , 4 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , Up to 25 Gigabit , $198.56 monthly , $126.29 monthly
+m5n.12xlarge , 192.0 GiB , 48 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 50 Gigabit , $2084.88 monthly , $1324.22 monthly
+m5n.16xlarge , 256.0 GiB , 64 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 75 Gigabit , $2779.84 monthly , $1765.87 monthly
+m5n.24xlarge , 384.0 GiB , 96 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 100 Gigabit , $4169.76 monthly , $2649.17 monthly
+m5n.2xlarge , 32.0 GiB , 8 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , Up to 25 Gigabit , $347.48 monthly , $220.46 monthly
+m5n.4xlarge , 64.0 GiB , 16 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , Up to 25 Gigabit , $694.96 monthly , $441.65 monthly
+m5n.8xlarge , 128.0 GiB , 32 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 25 Gigabit , $1389.92 monthly , $883.30 monthly
+m5n.large , 8.0 GiB , 2 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , Up to 25 Gigabit , $86.87 monthly , $55.48 monthly
+m5n.metal , 384.0 GiB , 96 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 100 Gigabit , unavailable , unavailable
+m5n.xlarge , 16.0 GiB , 4 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , Up to 25 Gigabit , $173.74 monthly , $110.23 monthly
+p2.16xlarge , 768.0 GiB , 64 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , 20 Gigabit , $10512.00 monthly , $7174.44 monthly
+p2.8xlarge , 488.0 GiB , 32 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , 10 Gigabit , $5256.00 monthly , $3587.22 monthly
+p2.xlarge , 61.0 GiB , 4 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , High , $657.00 monthly , $448.22 monthly
+p3.16xlarge , 488.0 GiB , 64 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , 25 Gigabit , $17870.40 monthly , $12196.84 monthly
+p3.2xlarge , 61.0 GiB , 8 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , Up to 10 Gigabit , $2233.80 monthly , $1524.24 monthly
+p3.8xlarge , 244.0 GiB , 32 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , 10 Gigabit , $8935.20 monthly , $6098.42 monthly
+p3dn.24xlarge , 768.0 GiB , 96 vCPUs , Intel Xeon Platinum 8175 (Skylake) , 100 Gigabit , $22784.76 monthly , $14026.95 monthly
+r3.2xlarge , 61.0 GiB , 8 vCPUs , Intel Xeon E5-2670 v2 (Ivy Bridge) , High , $485.45 monthly , $305.14 monthly
+r3.4xlarge , 122.0 GiB , 16 vCPUs , Intel Xeon E5-2670 v2 (Ivy Bridge) , High , $970.90 monthly , $610.28 monthly
+r3.8xlarge , 244.0 GiB , 32 vCPUs , Intel Xeon E5-2670 v2 (Ivy Bridge) , 10 Gigabit , $1941.80 monthly , $1220.56 monthly
+r3.large , 15.25 GiB , 2 vCPUs , Intel Xeon E5-2670 v2 (Ivy Bridge) , Moderate , $121.18 monthly , $76.65 monthly
+r3.xlarge , 30.5 GiB , 4 vCPUs , Intel Xeon E5-2670 v2 (Ivy Bridge) , Moderate , $243.09 monthly , $152.57 monthly
+r4.16xlarge , 488.0 GiB , 64 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , 20 Gigabit , $3106.88 monthly , $1962.24 monthly
+r4.2xlarge , 61.0 GiB , 8 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , Up to 10 Gigabit , $388.36 monthly , $245.28 monthly
+r4.4xlarge , 122.0 GiB , 16 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , Up to 10 Gigabit , $776.72 monthly , $490.56 monthly
+r4.8xlarge , 244.0 GiB , 32 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , 10 Gigabit , $1553.44 monthly , $981.12 monthly
+r4.large , 15.25 GiB , 2 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , Up to 10 Gigabit , $97.09 monthly , $61.32 monthly
+r4.xlarge , 30.5 GiB , 4 vCPUs , Intel Xeon E5-2686 v4 (Broadwell) , Up to 10 Gigabit , $194.18 monthly , $122.64 monthly
+r5.12xlarge , 384.0 GiB , 48 vCPUs , Intel Xeon Platinum 8175 , 10 Gigabit , $2207.52 monthly , $1390.65 monthly
+r5.16xlarge , 512.0 GiB , 64 vCPUs , Intel Xeon Platinum 8175 , 20 Gigabit , $2943.36 monthly , $1854.20 monthly
+r5.24xlarge , 768.0 GiB , 96 vCPUs , Intel Xeon Platinum 8175 , 25 Gigabit , $4415.04 monthly , $2781.30 monthly
+r5.2xlarge , 64.0 GiB , 8 vCPUs , Intel Xeon Platinum 8175 , 10 Gigabit , $367.92 monthly , $232.14 monthly
+r5.4xlarge , 128.0 GiB , 16 vCPUs , Intel Xeon Platinum 8175 , 10 Gigabit , $735.84 monthly , $463.55 monthly
+r5.8xlarge , 256.0 GiB , 32 vCPUs , Intel Xeon Platinum 8175 , 10 Gigabit , $1471.68 monthly , $927.10 monthly
+r5.large , 16.0 GiB , 2 vCPUs , Intel Xeon Platinum 8175 , 10 Gigabit , $91.98 monthly , $57.67 monthly
+r5.metal , 768.0 GiB , 96 vCPUs , Intel Xeon Platinum 8175 , 25 Gigabit , $4415.04 monthly , $2781.30 monthly
+r5.xlarge , 32.0 GiB , 4 vCPUs , Intel Xeon Platinum 8175 , 10 Gigabit , $183.96 monthly , $116.07 monthly
+r5a.12xlarge , 384.0 GiB , 48 vCPUs , AMD EPYC 7571 , 10 Gigabit , $1979.76 monthly , $1249.03 monthly
+r5a.16xlarge , 512.0 GiB , 64 vCPUs , AMD EPYC 7571 , 12 Gigabit , $2639.68 monthly , $1665.86 monthly
+r5a.24xlarge , 768.0 GiB , 96 vCPUs , AMD EPYC 7571 , 20 Gigabit , $3959.52 monthly , $2498.79 monthly
+r5a.2xlarge , 64.0 GiB , 8 vCPUs , AMD EPYC 7571 , 10 Gigabit , $329.96 monthly , $208.05 monthly
+r5a.4xlarge , 128.0 GiB , 16 vCPUs , AMD EPYC 7571 , 10 Gigabit , $659.92 monthly , $416.10 monthly
+r5a.8xlarge , 256.0 GiB , 32 vCPUs , AMD EPYC 7571 , Up to 10 Gigabit , $1319.84 monthly , $832.93 monthly
+r5a.large , 16.0 GiB , 2 vCPUs , AMD EPYC 7571 , 10 Gigabit , $82.49 monthly , $51.83 monthly
+r5a.xlarge , 32.0 GiB , 4 vCPUs , AMD EPYC 7571 , 10 Gigabit , $164.98 monthly , $104.39 monthly
+r5ad.12xlarge , 384.0 GiB , 48 vCPUs , AMD EPYC 7571 , 10 Gigabit , $2295.12 monthly , $1453.43 monthly
+r5ad.24xlarge , 768.0 GiB , 96 vCPUs , AMD EPYC 7571 , 20 Gigabit , $4590.24 monthly , $2906.13 monthly
+r5ad.2xlarge , 64.0 GiB , 8 vCPUs , AMD EPYC 7571 , 10 Gigabit , $382.52 monthly , $242.36 monthly
+r5ad.4xlarge , 128.0 GiB , 16 vCPUs , AMD EPYC 7571 , 10 Gigabit , $765.04 monthly , $484.72 monthly
+r5ad.large , 16.0 GiB , 2 vCPUs , AMD EPYC 7571 , 10 Gigabit , $95.63 monthly , $60.59 monthly
+r5ad.xlarge , 32.0 GiB , 4 vCPUs , AMD EPYC 7571 , 10 Gigabit , $191.26 monthly , $121.18 monthly
+r5d.12xlarge , 384.0 GiB , 48 vCPUs , Intel Xeon Platinum 8175 , 10 Gigabit , $2522.88 monthly , $1592.13 monthly
+r5d.16xlarge , 512.0 GiB , 64 vCPUs , Intel Xeon Platinum 8175 , 20 Gigabit , $3363.84 monthly , $2122.84 monthly
+r5d.24xlarge , 768.0 GiB , 96 vCPUs , Intel Xeon Platinum 8175 , 25 Gigabit , $5045.76 monthly , $3184.26 monthly
+r5d.2xlarge , 64.0 GiB , 8 vCPUs , Intel Xeon Platinum 8175 , 10 Gigabit , $420.48 monthly , $265.72 monthly
+r5d.4xlarge , 128.0 GiB , 16 vCPUs , Intel Xeon Platinum 8175 , 10 Gigabit , $840.96 monthly , $530.71 monthly
+r5d.8xlarge , 256.0 GiB , 32 vCPUs , Intel Xeon Platinum 8175 , 10 Gigabit , $1681.92 monthly , $1061.42 monthly
+r5d.large , 16.0 GiB , 2 vCPUs , Intel Xeon Platinum 8175 , 10 Gigabit , $105.12 monthly , $66.43 monthly
+r5d.metal , 768.0 GiB , 96 vCPUs , Intel Xeon Platinum 8175 , 25 Gigabit , $5045.76 monthly , $3184.26 monthly
+r5d.xlarge , 32.0 GiB , 4 vCPUs , Intel Xeon Platinum 8175 , 10 Gigabit , $210.24 monthly , $132.86 monthly
+r5dn.12xlarge , 384.0 GiB , 48 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 50 Gigabit , $2925.84 monthly , $1846.17 monthly
+r5dn.16xlarge , 512.0 GiB , 64 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 75 Gigabit , $3901.12 monthly , $2461.56 monthly
+r5dn.24xlarge , 768.0 GiB , 96 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 100 Gigabit , $5851.68 monthly , $3692.34 monthly
+r5dn.2xlarge , 64.0 GiB , 8 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , Up to 25 Gigabit , $487.64 monthly , $308.06 monthly
+r5dn.4xlarge , 128.0 GiB , 16 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , Up to 25 Gigabit , $975.28 monthly , $615.39 monthly
+r5dn.8xlarge , 256.0 GiB , 32 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 25 Gigabit , $1950.56 monthly , $1230.78 monthly
+r5dn.large , 16.0 GiB , 2 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , Up to 25 Gigabit , $121.91 monthly , $76.65 monthly
+r5dn.metal , 768.0 GiB , 96 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 100 Gigabit , unavailable , unavailable
+r5dn.xlarge , 32.0 GiB , 4 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , Up to 25 Gigabit , $243.82 monthly , $154.03 monthly
+r5n.12xlarge , 384.0 GiB , 48 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 50 Gigabit , $2610.48 monthly , $1644.69 monthly
+r5n.16xlarge , 512.0 GiB , 64 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 75 Gigabit , $3480.64 monthly , $2192.92 monthly
+r5n.24xlarge , 768.0 GiB , 96 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 100 Gigabit , $5220.96 monthly , $3289.38 monthly
+r5n.2xlarge , 64.0 GiB , 8 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , Up to 25 Gigabit , $435.08 monthly , $273.75 monthly
+r5n.4xlarge , 128.0 GiB , 16 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , Up to 25 Gigabit , $870.16 monthly , $548.23 monthly
+r5n.8xlarge , 256.0 GiB , 32 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 25 Gigabit , $1740.32 monthly , $1096.46 monthly
+r5n.large , 16.0 GiB , 2 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , Up to 25 Gigabit , $108.77 monthly , $68.62 monthly
+r5n.metal , 768.0 GiB , 96 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , 100 Gigabit , unavailable , unavailable
+r5n.xlarge , 32.0 GiB , 4 vCPUs , Intel Xeon Platinum 8259 (Cascade Lake) , Up to 25 Gigabit , $217.54 monthly , $137.24 monthly
+t1.micro , 0.613 GiB , 1 vCPUs , Variable , Very Low , $14.60 monthly , $10.22 monthly
+t2.2xlarge , 32.0 GiB , 8 vCPUs for a 4h 4.8m burst , Intel Xeon Family , Moderate , $270.976000 monthly , $167.90 monthly
+t2.large , 8.0 GiB , 2 vCPUs for a 7h 12m burst , Intel Xeon Family , Low to Moderate , $67.744000 monthly , $41.97 monthly
+t2.medium , 4.0 GiB , 2 vCPUs for a 4h 48m burst , Intel Xeon Family , Low to Moderate , $33.87 monthly , $20.951000 monthly
+t2.micro , 1.0 GiB , 1 vCPUs for a 2h 24m burst , Intel Xeon Family , Low to Moderate , $8.468000 monthly , $5.256000 monthly
+t2.nano , 0.5 GiB , 1 vCPUs for a 1h 12m burst , Intel Xeon Family , Low , $4.234000 monthly , $2.628000 monthly
+t2.small , 2.0 GiB , 1 vCPUs for a 4h 48m burst , Intel Xeon Family , Low to Moderate , $16.79 monthly , $10.51 monthly
+t2.xlarge , 16.0 GiB , 4 vCPUs for a 5h 24m burst , Intel Xeon Family , Moderate , $135.488000 monthly , $83.95 monthly
+t3.2xlarge , 32.0 GiB , 8 vCPUs for a 9h 36m burst , Intel Skylake E5 2686 v5 (2.5 GHz) , Moderate , $242.944000 monthly , $152.278000 monthly
+t3.large , 8.0 GiB , 2 vCPUs for a 7h 12m burst , Intel Skylake E5 2686 v5 (2.5 GHz) , Low to Moderate , $60.736000 monthly , $38.106000 monthly
+t3.medium , 4.0 GiB , 2 vCPUs for a 4h 48m burst , Intel Skylake E5 2686 v5 (2.5 GHz) , Low to Moderate , $30.368000 monthly , $19.05 monthly
+t3.micro , 1.0 GiB , 2 vCPUs for a 2h 24m burst , Intel Skylake E5 2686 v5 (2.5 GHz) , Low to Moderate , $7.59 monthly , $4.74 monthly
+t3.nano , 0.5 GiB , 2 vCPUs for a 1h 12m burst , Intel Skylake E5 2686 v5 (2.5 GHz) , Low , $3.796000 monthly , $2.40 monthly
+t3.small , 2.0 GiB , 2 vCPUs for a 4h 48m burst , Intel Skylake E5 2686 v5 (2.5 GHz) , Low to Moderate , $15.184000 monthly , $9.49 monthly
+t3.xlarge , 16.0 GiB , 4 vCPUs for a 9h 36m burst , Intel Skylake E5 2686 v5 (2.5 GHz) , Moderate , $121.47 monthly , $76.13 monthly
+t3a.2xlarge , 32.0 GiB , 8 vCPUs for a 9h 36m burst , AMD EPYC 7571 , Moderate , $219.584000 monthly , $137.678000 monthly
+t3a.large , 8.0 GiB , 2 vCPUs for a 7h 12m burst , AMD EPYC 7571 , Low to Moderate , $54.896000 monthly , $34.38 monthly
+t3a.medium , 4.0 GiB , 2 vCPUs for a 4h 48m burst , AMD EPYC 7571 , Low to Moderate , $27.448000 monthly , $17.228000 monthly
+t3a.micro , 1.0 GiB , 2 vCPUs for a 2h 24m burst , AMD EPYC 7571 , Low to Moderate , $6.86 monthly , $4.307000 monthly
+t3a.nano , 0.5 GiB , 2 vCPUs for a 1h 12m burst , AMD EPYC 7571 , Low , $3.431000 monthly , $2.117000 monthly
+t3a.small , 2.0 GiB , 2 vCPUs for a 4h 48m burst , AMD EPYC 7571 , Low to Moderate , $13.724000 monthly , $8.614000 monthly
+t3a.xlarge , 16.0 GiB , 4 vCPUs for a 9h 36m burst , AMD EPYC 7571 , Moderate , $109.79 monthly , $68.83 monthly
+u-12tb1.metal , 12288.0 GiB , 448 vCPUs , Intel Xeon Scalable (Skylake) processors , 25 Gigabit , unavailable , unavailable
+u-18tb1.metal , 18432.0 GiB , 448 vCPUs , Intel Xeon Platinum 8280L (Cascade Lake) , 100 Gigabit , unavailable , unavailable
+u-24tb1.metal , 24576.0 GiB , 448 vCPUs , Intel Xeon Platinum 8280L (Cascade Lake) , 100 Gigabit , unavailable , unavailable
+u-6tb1.metal , 6144.0 GiB , 448 vCPUs , Intel Xeon Scalable (Skylake) processors , 25 Gigabit , unavailable , unavailable
+u-9tb1.metal , 9216.0 GiB , 448 vCPUs , Intel Xeon Scalable (Skylake) processors , 25 Gigabit , unavailable , unavailable
+x1.16xlarge , 976.0 GiB , 64 vCPUs , High Frequency Intel Xeon E7-8880 v3 (Haswell) , High , $4868.37 monthly , $.30 monthly
+x1.32xlarge , 1952.0 GiB , 128 vCPUs , High Frequency Intel Xeon E7-8880 v3 (Haswell) , High , $9736.74 monthly , $5999.87 monthly
+x1e.16xlarge , 1952.0 GiB , 64 vCPUs , High Frequency Intel Xeon E7-8880 v3 (Haswell) , 10 Gigabit , $9741.12 monthly , $6002.79 monthly
+x1e.2xlarge , 244.0 GiB , 8 vCPUs , High Frequency Intel Xeon E7-8880 v3 (Haswell) , Up to 10 Gigabit , $1217.64 monthly , $750.44 monthly
+x1e.32xlarge , 3904.0 GiB , 128 vCPUs , High Frequency Intel Xeon E7-8880 v3 (Haswell) , 25 Gigabit , $19482.24 monthly , unavailable
+x1e.4xlarge , 488.0 GiB , 16 vCPUs , High Frequency Intel Xeon E7-8880 v3 (Haswell) , Up to 10 Gigabit , $2435.28 monthly , $1500.88 monthly
+x1e.8xlarge , 976.0 GiB , 32 vCPUs , High Frequency Intel Xeon E7-8880 v3 (Haswell) , Up to 10 Gigabit , $4870.56 monthly , $3001.76 monthly
+x1e.xlarge , 122.0 GiB , 4 vCPUs , High Frequency Intel Xeon E7-8880 v3 (Haswell) , Up to 10 Gigabit , $608.82 monthly , $375.22 monthly
+z1d.12xlarge , 384.0 GiB , 48 vCPUs , Intel Xeon Platinum 8151 , 25 Gigabit , $3258.72 monthly , $2060.06 monthly
+z1d.2xlarge , 64.0 GiB , 8 vCPUs , Intel Xeon Platinum 8151 , Up to 10 Gigabit , $543.12 monthly , $343.10 monthly
+z1d.3xlarge , 96.0 GiB , 12 vCPUs , Intel Xeon Platinum 8151 , Up to 10 Gigabit , $814.68 monthly , $514.65 monthly
+z1d.6xlarge , 192.0 GiB , 24 vCPUs , Intel Xeon Platinum 8151 , 10 Gigabit , $1629.36 monthly , $1030.03 monthly
+z1d.large , 16.0 GiB , 2 vCPUs , Intel Xeon Platinum 8151 , Up to 10 Gigabit , $135.78 monthly , $86.14 monthly
+z1d.metal , 384.0 GiB , 48 vCPUs , Intel Xeon Platinum 8151 , 25 Gigabit , $3258.72 monthly , $2060.06 monthly
+z1d.xlarge , 32.0 GiB , 4 vCPUs , Intel Xeon Platinum 8151 , Up to 10 Gigabit , $271.56 monthly , $171.55 monthly

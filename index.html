@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AWS EMR Executor Configuration Calculations</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+<body>
+    <div class="mb-3">
+        <p></p>
+        <h3 class="mb-4 text-center">AWS EMR Executor Configuration Calculations</h3>
+    </div>
+    <form class="card p-5 shadow">
+        <div class="mb-3">
+            <label for="instanceDropdown" class="form-label">Instance Type: </label>
+            <select id="instanceDropdown" class="form-select" onchange="updateDetails()">
+                <option value="">-- Select Instance --</option>
+            </select>
+            
+        </div>
+        <p id="details"></p>
+        <div class="mb-3">
+            <label for="numberOfInstances" class="form-label">Number of instances : </label>
+            <input type="text" class="form-control" id="numberOfInstances" name="numberOfInstances" value="0"/>
+        </div>
+        <div class="mb-3">
+            <label for="executorCore" class="form-label">Cores per executor : </label>
+            <select id="executorCores"  class="form-select">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+        </div>
+        <div class="mb-3"></div>
+            <label for="references" class="form-label">References for calculation</label>
+            <ul>
+                <li>
+                    <a href="https://repost.aws/questions/QU8MhEiKfZS52q2dlpsfbd2Q/calculate-number-of-executors-executor-memory-and-task-nodes-for-spark-job-on-aws-emr">link-1</a>
+                </li>
+            </ul>
+        </div>    
+        <div class="mb-3">
+            <button type="button" class="btn btn-primary w-100" onclick="updateText()" ="Calculate">Calculate</button>
+        </div>
+    </form>
+    <div id="output" class="alert alert-info mt-3 text-justify"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="index.js"></script>
+    
+    
+</body>
+</html>
